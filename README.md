@@ -10,7 +10,7 @@ NOTE: I did not weight threat level or any other column of data. This is just so
 sociological conclusions should be made.
 
 
-(Data)[https://github.com/washingtonpost/data-police-shootings] 
+DATA from https://github.com/washingtonpost/data-police-shootings 
 
 Credits:
 Research and Reporting: Julie Tate, Jennifer Jenkins, Kimberly Kindy, Wesley Lowery, Keith Alexander and Steven Rich
